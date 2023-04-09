@@ -6,4 +6,8 @@ public class Test1 {
 		System.out.println("Commit Try...");
 	}
 
+	public int divide(int a, int b) {
+		return a / b;
+	}
+
 }
